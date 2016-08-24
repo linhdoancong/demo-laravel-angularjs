@@ -1,0 +1,11 @@
+Project name : Demo Laravel + AngularJS
+PHP Framework : Laravel 5.2
+
+==================Install==================
+
+- create database name "laravel_demo"
+- Run composer to create table and data in database :
+	+ php artisan migrate
+	+ php artisan db:seed
+
+
